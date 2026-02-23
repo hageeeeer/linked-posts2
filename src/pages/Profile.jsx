@@ -112,7 +112,7 @@ export default function Profile() {
               </div>
               <div className="py-2">
                 <p className="text-gray-400 text-xs px-6 uppercase mb-1">
-                  Feedback
+                  Feedback 
                 </p>
                 <button className="w-full flex items-center py-1.5 px-6 space-x-2 hover:bg-gray-200">
                   <svg
